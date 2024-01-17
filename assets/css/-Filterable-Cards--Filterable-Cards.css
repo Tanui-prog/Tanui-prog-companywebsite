@@ -1,0 +1,11 @@
+#getsoftware {
+  margin: 14px;
+  padding: 5px;
+  height: 39px;
+  width: 150px;
+  background: var(--bs-body-color);
+  border-top-right-radius: 0px;
+  border-top-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+}
+
